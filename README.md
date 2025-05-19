@@ -5,4 +5,5 @@ The manusript for the work conducted is under construction.
 
 More details will be included once the work is published.
 
+![KinaseArchitecture](https://github.com/durgashree15/K-PL50/blob/main/Kinase%20Architecture.png)
 Contact to learn more.
